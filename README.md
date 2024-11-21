@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,nextjs,sass,prisma,mongodb,postman,jest,cypress,vercel,vite,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,nextjs,sass,prisma,mongodb,postman,jest,cypress,vercel,vite,nodejs,npm,mysql)](https://skillicons.dev)
 
 ![Niccar95's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niccar95&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
