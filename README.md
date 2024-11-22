@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
--- My Skills :D :
+### My skills &#128736;
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,nextjs,sass,prisma,mongodb,postman,jest,cypress,vercel,vite,nodejs,npm,git,mysql,figma)](https://skillicons.dev)
 
