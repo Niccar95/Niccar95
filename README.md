@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ### 🌐 Let's connect
 
-Visit my [personal website](https://nicolas-carrasco.vercel.app/) or 
+Check out my [personal website](https://nicolas-carrasco.vercel.app/) or my [Linkedin profile](https://www.linkedin.com/in/nicolas-carrasco-6882402a5/)
 
 
-### &#128736; My skills
+### &#128736; My stack list
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,nextjs,sass,prisma,mongodb,postman,jest,cypress,vercel,vite,nodejs,npm,git,mysql,figma)](https://skillicons.dev)
 
