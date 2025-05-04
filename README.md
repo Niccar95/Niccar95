@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🌐 Connect with me
+### 🌐 Let's connect
 
-My personal website: https://nicolas-carrasco.vercel.app/
+Visit my [personal website](https://nicolas-carrasco.vercel.app/) or 
 
-My Linkedin profile: https://www.linkedin.com/in/nicolas-carrasco-6882402a5/
 
 ### &#128736; My skills
 
