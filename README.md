@@ -22,7 +22,7 @@ Check out my [personal website](https://nicolas-carrasco.vercel.app/) or my [Lin
 
 ### &#128736; My stack list
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,nextjs,sass,prisma,mongodb,postman,jest,cypress,vercel,vite,nodejs,npm,git,mysql,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,nextjs,sass,prisma,mongodb,postman,jest,cypress,vercel,vite,nodejs,npm,git,mysql,figma,python,flask)](https://skillicons.dev)
 
 ### Stats: 
 
