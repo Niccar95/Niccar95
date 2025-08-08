@@ -1,4 +1,4 @@
-### Hey! My name is Nicolas and I'm a fullstack developer 👋
+### Hey! My name is Nicolas and I'm a frontend developer. Keen interest in developing fullstack projects and always learning more. 👋
 
 <!--
 **Niccar95/Niccar95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
