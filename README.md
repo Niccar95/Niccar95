@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 Check out my [personal website](https://nicolas-carrasco.vercel.app/) or my [Linkedin profile](https://www.linkedin.com/in/nicolas-carrasco-6882402a5/)
 
+![My GitHub Game!!!](game.gif)
 
 ### &#128736; My stack list
 
@@ -33,4 +34,3 @@ Check out my [personal website](https://nicolas-carrasco.vercel.app/) or my [Lin
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Niccar95&theme=onedark)](https://github.com/Niccar95/github-profile-trophy)
 
-![My GitHub Game!!!](game.gif)
