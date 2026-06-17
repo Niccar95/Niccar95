@@ -33,4 +33,4 @@ Check out my [personal website](https://nicolas-carrasco.vercel.app/) or my [Lin
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Niccar95&theme=onedark)](https://github.com/Niccar95/github-profile-trophy)
 
-![My GitHub Game](game.gif)
+![My GitHub Game!!!](game.gif)
